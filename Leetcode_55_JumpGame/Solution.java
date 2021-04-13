@@ -1,5 +1,6 @@
 //memo: ctrl + alt + k 大範圍修改
 import java.util.*;
+import testing_data.Solution_55_testing_data;
 //1.0.0 
 //bug:Move to zero trap by max jump count;
 class Solution {
