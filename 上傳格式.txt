@@ -7,4 +7,4 @@
 
 1. 內容需要題目的原網址
 2. 題意說明(pdf及ppt檔)
-3. Solution(開頭需要標註是否被Accept)
+3. Solution(Commit需要標註是否被Accept)

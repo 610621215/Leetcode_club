@@ -20,6 +20,9 @@ public class Solution_55_testing_data{
 		testing_data_list.add(new int[]{1,2,0,1});
 		testing_data_list.add(new int[] {5,9,3,2,1,0,2,3,3,1,0,0});
 		testing_data_list.add(new int[] {4,2,0,0,1,1,4,4,4,0,4,0});
+		testing_data_list.add(new int[] {4,1,12,0,2,0,0,4,4,0,4,0});
+		testing_data_list.add(new int[] {4,8,0,0,1,0,4});
+		testing_data_list.add(new int[] {1,2,3});
 		return testing_data_list;
 	}
 	public void show_testing_data(int[] testing_data) {
