@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Leetcode_650_2 Keys Keyboard.iml" filepath="$PROJECT_DIR$/.idea/Leetcode_650_2 Keys Keyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssrc/ssrc.iml" filepath="$PROJECT_DIR$/ssrc/ssrc.iml" />
+    </modules>
+  </component>
+</project>
