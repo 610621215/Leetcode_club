@@ -17,6 +17,7 @@ class Solution {
 			go_testing.show_testing_data(nums);
 //			new Solution().canJump(nums);
 			System.out.println(new Solution().canJump(nums));
+
 		}
 	}
 	public boolean canJump(int[] nums) {

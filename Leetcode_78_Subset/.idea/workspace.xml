@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59356ffe-d3e6-4ea2-9db0-8c5be7ed0ded" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode_650_2 Keys Keyboard/ssrc/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Leetcode_650_2 Keys Keyboard/ssrc/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leetcode_650_2 Keys Keyboard/ssrc/src/Sol.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Leetcode_650_2 Keys Keyboard/ssrc/src/Sol.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
